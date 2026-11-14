@@ -199,6 +199,13 @@ https://github.com/user-attachments/assets/47ea40f3-0f25-4667-9bd9-0b329a23cf12
 
 ---
 
+## Design docs
+
+| Doc | What's inside |
+|---|---|
+| [High-Level Design](docs/hld.md) | Architecture, components, data flow, tech choices, deployment |
+| [Low-Level Design](docs/lld.md) | Modules, data models, APIs and functions, key sequences |
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
